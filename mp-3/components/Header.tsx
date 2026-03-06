@@ -3,7 +3,7 @@ import styled from "styled-components";
 export default function Header() {
 
     const StyledHeader = styled.header`
-        font-family: "Segoe UI Black", fantasy;
+        font-family: "Segoe UI Black", "Roboto Light", sans-serif;
        
         font-size: calc(2px + 1.0vw);
         background-color: #f2c1f4;

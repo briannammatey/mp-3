@@ -52,7 +52,7 @@ const StyledMainInfoList=styled.div`
 
     color: #372d2d;`
 const StyledTitle=styled.div`
-    font-family: "Segoe UI Black", sans-serif;;
+    font-family: "Segoe UI Black", "Roboto Light", sans-serif;;
 `
 
 
@@ -82,7 +82,7 @@ const StyledAbout=styled.div  `
 
 `
 const StyledHeader = styled.div`
-    font-family: "Dubai Medium", "serif";
+    font-family: "Dubai Medium", "Roboto","serif";
     font-weight:bold;
     font-size: calc(1px + 1.5vw);;
     text-align: center;
