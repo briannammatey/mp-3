@@ -40,7 +40,7 @@ export default function Education(){
                     <li> Computer Science & Economics</li>
                 </div>
                 <StyledImage>
-                <img className="logo" src="../../../bu_logo.png" alt="Boston University Logo"/>
+                <img className="logo" src="../../bu_logo.png" alt="Boston University Logo"/>
                 </StyledImage>
             </div>
         </ul>
@@ -52,7 +52,7 @@ export default function Education(){
                     <li>2019 - 2023</li>
                 </div>
                 <StyledImage>
-                <img className="logo" src="../../../ulc_next.webp" alt="Uncommon Leadership Logo"/>
+                <img className="logo" src="../../ulc_next.webp" alt="Uncommon Leadership Logo"/>
                     </StyledImage>
                 </div>
         </ul>

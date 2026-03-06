@@ -32,11 +32,11 @@ export default function Certifications() {
             <ul>
                 <li className="cert_n">CodePath's Technical Interview Prep 101</li>
                 <StyledImage>
-                <img className="cert" src="../public/codepath.png" alt="CodePath's Technical Interview Prep 101 Certificate"/>
+                <img className="cert" src="../../codepath.png" alt="CodePath's Technical Interview Prep 101 Certificate"/>
                 </StyledImage>
                 <li className="cert_n"> Machine Learning Foundations at Cornell University</li>
                 <StyledImage>
-                <img className="cert" src="../public/cornellu.png"
+                <img className="cert" src="../../cornellu.png"
                      alt=" Machine Learning Foundations at Cornell University Certificate"/>
                 </StyledImage>
 
