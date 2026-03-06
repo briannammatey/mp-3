@@ -52,7 +52,7 @@ const StyledMainInfoList=styled.div`
 
     color: #372d2d;`
 const StyledTitle=styled.div`
-    font-family: "Segoe UI Black", fantasy;;
+    font-family: "Segoe UI Black", sans-serif;;
 `
 
 

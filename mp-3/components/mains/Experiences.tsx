@@ -10,7 +10,7 @@ const StyledName = styled.div`font-family: "Dubai Medium", "serif";
      font-size:  calc(2px + 1.8vw);;`
 const StyledSection = styled.section`
     margin-top:5%;
-    font-family: "Segoe UI Black", "fantasy";
+    font-family: "Segoe UI Black", "sans-serif";
     font-size:calc(2px + 2.5vw);;`
 const StyledContainer = styled.div`
     background-color:white;

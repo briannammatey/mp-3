@@ -46,7 +46,7 @@ const StyledContainer = styled.div`
 `
 const StyledProjectName = styled.div`
     font-size:calc(2px + 1.5vw);
-    font-family: "Segoe UI Black", "fantasy";
+    font-family: "Segoe UI Black", "sans-serif";
 `
 
 const StyledDescription = styled.div`
